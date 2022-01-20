@@ -1,6 +1,6 @@
 # Heart-Disease-Identification
 This is my final year project based on heart disease identification using ensemble learning and deep learning
-# This work is improvised version for the IEEE paper  (https://ieeexplore.ieee.org/document/9122958 )
+##### This work is improvised version for the IEEE paper  (https://ieeexplore.ieee.org/document/9122958 )
 the dataset is taken from Machine learning UCI repository 
 ''' There is always need of analysis of heart related things either diagnosis or prediction or you cansay that protection of heart disease.There are various fields like artificial intelligence, machine learning, data mining that contributed on this work.''' 
 
